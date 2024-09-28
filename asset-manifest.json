@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-lozada-navbar/static/css/main.28ed5142.css",
+    "main.js": "/ws101-lozada-navbar/static/js/main.1587dfeb.js",
+    "index.html": "/ws101-lozada-navbar/index.html",
+    "main.28ed5142.css.map": "/ws101-lozada-navbar/static/css/main.28ed5142.css.map",
+    "main.1587dfeb.js.map": "/ws101-lozada-navbar/static/js/main.1587dfeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28ed5142.css",
+    "static/js/main.1587dfeb.js"
+  ]
+}
